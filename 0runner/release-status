@@ -1,0 +1,10 @@
+old_snapshot_version=1.0-pre
+release_version=1.0
+head_before_release=a221e1bd5cfbecfbca6f72d0b654aeb80ed4c20c
+new_snapshot_version=a221e1bd5cfbecfbca6f72d0b654aeb80ed4c20c
+head_at_release=0c67385e9294a432c807704e69b7b632a3c16045
+created_archive=true
+src_tests_passed=True
+tagged=true
+verified_uploads=A
+updated_master_feed=true

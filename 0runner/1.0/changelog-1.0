@@ -1,0 +1,23 @@
+commit a221e1bd5cfbecfbca6f72d0b654aeb80ed4c20c
+Author: Dave Abrahams <dave@boostpro.com>
+Date:   Fri Apr 13 12:01:04 2012 -0400
+
+    Add a local feed file
+
+commit 08b362402a2863c8788b608a312863e417db9377
+Author: Dave Abrahams <dave@boostpro.com>
+Date:   Fri Apr 13 12:00:53 2012 -0400
+
+    Tweak the summary
+
+commit 0e0a3deb55f7de039658e641b3ec2dc34b7e7896
+Author: Dave Abrahams <dave@boostpro.com>
+Date:   Fri Apr 13 11:10:41 2012 -0400
+
+    Implemented the script
+
+commit 8a053995b20e8d6e2b3ba81c48577a18cca8bb91
+Author: Dave Abrahams <dave@boostpro.com>
+Date:   Fri Apr 13 01:00:41 2012 -0400
+
+    Initial commit
